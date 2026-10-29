@@ -1,4 +1,4 @@
-# PacmanRL
+# Pacman
 
 A from-scratch, tile-based Pac-Man in Python and pygame-ce. Every piece of game state (positions, directions, ghost modes, targets, timers, level parameters) is a plain Python attribute, so the game can be played by hand, inspected live, or driven by a reinforcement learning agent.
 
@@ -18,8 +18,8 @@ A from-scratch, tile-based Pac-Man in Python and pygame-ce. Every piece of game 
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/PacmanRL.git
-cd PacmanRL
+git clone https://github.com/<your-username>/PACMAN.git
+cd Pacman
 pip install pygame-ce
 python game.py
 ```
