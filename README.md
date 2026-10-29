@@ -2,7 +2,7 @@
 
 A from-scratch, tile-based Pac-Man in Python and pygame-ce. Every piece of game state (positions, directions, ghost modes, targets, timers, level parameters) is a plain Python attribute, so the game can be played by hand, inspected live, or driven by a reinforcement learning agent.
 
-![screenshot](docs/screenshot.png)
+<img width="1105" height="1027" alt="pacman01" src="https://github.com/user-attachments/assets/64fef8b4-5cfd-4665-aae7-070716131ddf" />
 
 ## Features
 
